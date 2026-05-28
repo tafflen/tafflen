@@ -5,8 +5,20 @@
 
 <!-- Badges -->
 <div align="center">
-  <a href="https://github.com/Tafflen">
+  <a href="https://github.com/tafflen">
     <img src="https://img.shields.io/badge/GitHub-Tafflen-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/persis-tafflin-j-0606b0366/">
+    <img src="https://img.shields.io/badge/LinkedIn-Persis%20Tafflin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ptafflin">
+    <img src="https://img.shields.io/badge/Medium-@Tafflen-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/persistalp64?from=explore&tab=posts">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Tafflen-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Tafflin/">
+    <img src="https://img.shields.io/badge/LeetCode-Tafflen-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Tafflen&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" />
@@ -18,19 +30,13 @@
 
 ## 👩‍💻 About Me
 
-```text
-I don't just analyze data or write code — I make sense of both,
-and then explain them so anyone can understand.
-```
+I'm **Persis** — working at the intersection of data, frontend dev, and technical writing. I analyze, build, and then explain it all in plain English.
 
-Hey there! I'm **Persis** — a curious mind at the crossroads of **data**, **design**, and **communication**.
-
-- 📊 Turning raw data into stories that actually mean something
-- 🎨 Building clean, functional frontends that people enjoy using
-- ✍️ Breaking down complex tech & business concepts for beginners
-- 🌸 Currently contributing to **GirlScript Summer of Code (GSSoC)**
-- 🤖 Actively **building & learning with AI**
-- 💡 Believer in learning out loud and sharing knowledge freely
+- 📊 Data Analytics
+- 🎨 Frontend Dev
+- ✍️ Technical Writing — simplifying tech & business for beginners
+- 🌸 Contributing to **GirlScript Summer of Code (GSSoC)**
+- 🤖 Building & learning with AI
 
 ---
 
@@ -50,7 +56,7 @@ Hey there! I'm **Persis** — a curious mind at the crossroads of **data**, **de
 ![CSS3](https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-24243e?style=for-the-badge&logo=javascript&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white)
@@ -60,25 +66,13 @@ Hey there! I'm **Persis** — a curious mind at the crossroads of **data**, **de
 
 ## ✍️ Technical Writing
 
-> *Making the complex, simple. Making the intimidating, approachable.*
-
-I write about:
-- 📈 Data concepts for beginners
-- 🌐 Frontend fundamentals in plain English  
-- 🤖 AI tools and how to actually use them
-- 💼 Business & tech concepts without the jargon
+I write about tech, business concepts and AI — keeping it beginner-friendly and jargon-free. Find my articles on [Medium](https://medium.com/@ptafflin) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/persistalp64?from=explore&tab=posts).
 
 ---
 
 ## 🌸 Open Source
 
-<div align="center">
-  <img src="https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-Active%20Contributor-ff6b35?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br/>
-
-Currently contributing to open source through **GirlScript Summer of Code** — collaborating, learning, and giving back to the community.
+Currently contributing to **GirlScript Summer of Code (GSSoC)** — collaborating and learning in the open.
 
 ---
 
@@ -111,25 +105,4 @@ Currently contributing to open source through **GirlScript Summer of Code** — 
 
 ---
 
-## 🤖 Currently Building With AI
-
-- Exploring AI tools for **data analysis automation**
-- Using AI to enhance **technical writing workflows**
-- Building small **AI-powered web projects**
-- Learning how LLMs work under the hood
-
----
-
-## 💬 My Philosophy
-
-```text
-Learn it. Build it. Write about it.
-If you can't explain it simply, you don't understand it well enough.
-```
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</div>
+> *Learn it. Build it. Write about it.*
