@@ -84,7 +84,11 @@ Currently contributing to **GirlScript Summer of Code (GSSoC)** — collaboratin
 ---
 
 ## 📊 GitHub Stats
-
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=a78bfa&label=Total%20Commits&query=%24.total_commits&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FTafflen%3Fyear%3Dall&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Tafflen?color=a78bfa&style=for-the-badge&label=Issues" />
+  <img src="https://img.shields.io/github/issues-pr/Tafflen?color=a78bfa&style=for-the-badge&label=Pull%20Requests" />
+</div>
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tafflen&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafflen&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
