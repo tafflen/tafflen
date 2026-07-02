@@ -5,9 +5,9 @@
 
 <!-- Badges -->
 <div align="center">
-  <a href="https://github.com/tafflen">
+  <!-- <a href="https://github.com/tafflen">
     <img src="https://img.shields.io/badge/GitHub-Tafflen-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/persis-tafflin-j-0606b0366/">
     <img src="https://img.shields.io/badge/LinkedIn-Persis%20Tafflin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Tafflen-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Tafflen&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" /> -->
 </div>
 
 <br/>
@@ -47,8 +47,11 @@ I'm **Persis** — working at the intersection of data, frontend dev, and techni
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-302b63?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-24243e?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-24243e?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-302b63?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-24243e?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-0f0c29?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-302b63?style=for-the-badge&logo=powerbi&logoColor=white)
 
 **Frontend Development**
 
@@ -56,11 +59,17 @@ I'm **Persis** — working at the intersection of data, frontend dev, and techni
 ![CSS3](https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-24243e?style=for-the-badge&logo=javascript&logoColor=white)
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-302b63?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-24243e?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-24243e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-24243e?style=for-the-badge&logo=visualstudiocode&logoColor=white)/img.shields.io/badge/VS%20Code-24243e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
