@@ -69,7 +69,7 @@ I'm **Persis** — working at the intersection of data, frontend dev, and techni
 
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-24243e?style=for-the-badge&logo=visualstudiocode&logoColor=white)/img.shields.io/badge/VS%20Code-24243e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-24243e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
