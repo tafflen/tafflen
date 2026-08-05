@@ -33,7 +33,7 @@
 I'm **Persis** — working at the intersection of data, frontend dev, and technical writing. I analyze, build, and then explain it all in plain English.
 
 - 📊 Data Analytics
-- 🎨 Frontend Dev
+- 🎨 Web Dev
 - ✍️ Technical Writing — simplifying tech & business for beginners
 - 🌸 Contributing to **GirlScript Summer of Code (GSSoC)**
 - 🤖 Building & learning with AI
@@ -51,6 +51,7 @@ I'm **Persis** — working at the intersection of data, frontend dev, and techni
 ![SQL](https://img.shields.io/badge/SQL-24243e?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-0f0c29?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-302b63?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-302b63?style=for-the-badge&logo=tableau&logoColor=white)
 
 **Frontend Development**
 
