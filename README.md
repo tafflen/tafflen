@@ -94,6 +94,11 @@ Currently contributing to **GirlScript Summer of Code (GSSoC)** — collaboratin
 </div>
 
 ---
+### Infosys Springboard Virtual Internship
+
+[View My Project Repository](https://github.com/springboardmentor09876x-cmd/higher-education-dv/tree/PersisTafflin)
+
+---
 
 ## 🏆 GitHub Trophies
 <div align="center">
