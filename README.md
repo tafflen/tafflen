@@ -83,6 +83,11 @@ I write about tech, business concepts and AI — keeping it beginner-friendly an
 Currently contributing to **GirlScript Summer of Code (GSSoC)** — collaborating and learning in the open.
 
 ---
+### Infosys Springboard Virtual Internship
+
+[View My Project Repository](https://github.com/springboardmentor09876x-cmd/higher-education-dv/tree/PersisTafflin)
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -92,11 +97,6 @@ Currently contributing to **GirlScript Summer of Code (GSSoC)** — collaboratin
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tafflen&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
-
----
-### Infosys Springboard Virtual Internship
-
-[View My Project Repository](https://github.com/springboardmentor09876x-cmd/higher-education-dv/tree/PersisTafflin)
 
 ---
 
